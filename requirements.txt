@@ -1,0 +1,7 @@
+Django==5.1.6
+django-crispy-forms==2.3
+crispy-bootstrap4==2024.10
+psycopg2-binary==2.9.10
+beautifulsoup4==4.13.3
+requests==2.32.3
+python-decouple==3.8
